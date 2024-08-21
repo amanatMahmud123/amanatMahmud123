@@ -24,7 +24,7 @@
 2. [Supply Chain Analysis](https://github.com/amanatMahmud123/Supply-Chain-Analysis): Analysis of inventory management and supply chain efficiency (2015-2018). Identifies key trends in product classes, sales performance, and shipping. Provides actionable insights to optimize inventory levels, reduce costs, and improve customer satisfaction in a complex supply chain environment.
 
 ### Power BI Projects
-1. [CRM and Sales Analysis](https://github.com/amanat-mahmud/crm_and_sales): Analysis of Customer relationship management and sales management(2024). Identifies optimizing sales performance,top sales agent,conversion rate, win rate and revenue forecasting. THis was done for Fp20 challenge.
+1. [CRM and Sales Analysis](https://github.com/amanatMahmud123/CRM-Sales-Analysis): Analysis of Customer relationship management and sales management(2024). Identifies optimizing sales performance,top sales agent,conversion rate, win rate and revenue forecasting. THis was done for Fp20 challenge.
 2. [Insurance Analysis](https://github.com/amanatMahmud123/Shield-Insurance-Analysis): Interactive Power BI dashboard analyzing customer demographics, sales channels, and policy trends. Provides actionable insights on revenue generation, customer growth, and age-group impacts to drive data-informed business decisions.
 3. [E-commerce Sales Analysis](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis): E-commerce sales and promotions analysis(2019). Examines user behavior, product performance, and promotional impact across brands, categories, and states to optimize sales strategies and profitability.
 
