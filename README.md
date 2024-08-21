@@ -34,7 +34,7 @@
 
 
 ### Tableau Projects
-1. [Beverage Analysis](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-): Data-driven market research and strategy development for Codex, an emerging Indian energy drink brand. Includes consumer preference analysis, product optimization, competitor assessment, and targeted marketing recommendations to increase market share and brand awareness.
+1. [Beverage Analysis](https://github.com/amanatMahmud123/Energy-Drink-Marketing-Product-Analysis): Data-driven market research and strategy development for Codex, an emerging Indian energy drink brand. Includes consumer preference analysis, product optimization, competitor assessment, and targeted marketing recommendations to increase market share and brand awareness.
 
 ### Python Projects
 1. [Food delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis): Analyze 5 months of Khao's food delivery data to boost sales and profitability. Identify key factors affecting performance, analyze trends, and provide actionable recommendations for resource allocation and strategy improvement.
