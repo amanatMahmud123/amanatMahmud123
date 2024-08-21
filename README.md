@@ -30,7 +30,7 @@
 
 
 ### SQL Projects
-1. [Social Media Analysis](https://github.com/amanat-mahmud/social_medial_analysis): Wrote complex queries, merged and analyzed data from multiple  databases to  optimize content strategy and user engagement through hashtag analysis, user influence metrics, and regional content preferences.
+1. [Social Media Analysis](https://github.com/amanatMahmud123/Social-Media-Analysis): Wrote complex queries, merged and analyzed data from multiple  databases to  optimize content strategy and user engagement through hashtag analysis, user influence metrics, and regional content preferences.
 
 
 ### Tableau Projects
