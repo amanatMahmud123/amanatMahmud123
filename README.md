@@ -25,19 +25,16 @@
 
 ### Power BI Projects
 1. [CRM and Sales Analysis](https://github.com/amanat-mahmud/crm_and_sales): Analysis of Customer relationship management and sales management(2024). Identifies optimizing sales performance,top sales agent,conversion rate, win rate and revenue forecasting. THis was done for Fp20 challenge.
-2. [Insurance Analysis](https://github.com/amanat-mahmud/Shield-Insurance-Analysis): Interactive Power BI dashboard analyzing customer demographics, sales channels, and policy trends. Provides actionable insights on revenue generation, customer growth, and age-group impacts to drive data-informed business decisions.
+2. [Insurance Analysis](https://github.com/amanatMahmud123/Shield-Insurance-Analysis): Interactive Power BI dashboard analyzing customer demographics, sales channels, and policy trends. Provides actionable insights on revenue generation, customer growth, and age-group impacts to drive data-informed business decisions.
 3. [E-commerce Sales Analysis](https://github.com/amanat-mahmud/Ecommerce-Sales-Analysis): E-commerce sales and promotions analysis(2019). Examines user behavior, product performance, and promotional impact across brands, categories, and states to optimize sales strategies and profitability.
-4. [Hotel Management Analysis](https://github.com/amanat-mahmud/hotel_management): Analyzing customer retention, revenue trends, and market diversity to optimize pricing strategies and enhance customer experience in the hospitality industry.
-5. [Adhoc Sales Analysis](https://github.com/amanat-mahmud/sales_adhoc_analysis): E-commerce sales analysis project using Power BI. Insights on revenue, product categories, regional performance, and order statuses to optimize sales and improve customer satisfaction.
+
 
 ### SQL Projects
 1. [Social Media Analysis](https://github.com/amanat-mahmud/social_medial_analysis): Wrote complex queries, merged and analyzed data from multiple  databases to  optimize content strategy and user engagement through hashtag analysis, user influence metrics, and regional content preferences.
-2. [Sales Analysis](https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL): Wrote queries to analyze sales performance metrics from 2014-2017, focusing identifying key trends in product sales, regional performance, and profitability through comprehensive data-driven insights and recommendations.
-3. [Call Center Analysis](https://github.com/amanat-mahmud/call_center_analysis): Developed SQL queries to analyze customer service metrics, sentiment, and regional trends to optimize call center operations and improve customer satisfaction.
+
 
 ### Tableau Projects
 1. [Beverage Analysis](https://github.com/amanat-mahmud/Energy-Drink-Strategy-Market-Analysis-): Data-driven market research and strategy development for Codex, an emerging Indian energy drink brand. Includes consumer preference analysis, product optimization, competitor assessment, and targeted marketing recommendations to increase market share and brand awareness.
-2. [Hotel Management Analysis](https://github.com/amanat-mahmud/Hotel-Management-Analysis): Analyzing customer retention, revenue trends, and market diversity to optimize pricing strategies and enhance customer experience in the hospitality industry.
 
 ### Python Projects
 1. [Food delivery Analysis](https://github.com/amanat-mahmud/Food-Delivery-Analysis): Analyze 5 months of Khao's food delivery data to boost sales and profitability. Identify key factors affecting performance, analyze trends, and provide actionable recommendations for resource allocation and strategy improvement.
