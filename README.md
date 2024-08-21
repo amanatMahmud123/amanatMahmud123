@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=87CEEB&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Amanat+Mahmud.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38b6ff&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Amanat+Mahmud.;&#127912;+Telling+stories+with+data.)](https://git.io/typing-svg)
 
 ## 📊 Data Analyst | Business Intelligence Developer
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
