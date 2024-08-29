@@ -13,7 +13,7 @@
 - 🌱 Expanding skills in: Tableau and Plotly Dash for interactive data storytelling
 - 📂 Explore my [Data Analysis Portfolio](https://codebasics.io/portfolio/Amanat-Ullah-Mahmud)
 - 📫 Let's Connect: [LinkedIn](https://www.linkedin.com/in/amanat-mahmud)
-- 📄 View my [Resume](https://drive.google.com/file/d/1HvavGSf-2b147TQgHEKXx6B8hecF75JF/view?usp=sharing)
+- 📄 View my [Resume](https://drive.google.com/file/d/1MlW-fZQRBeei4wjDW0p5W38fBpHYqChi/view?usp=sharing)
 - 🤝 Open to collaboration on data-driven projects and analytics challenges
 
 
